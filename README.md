@@ -3,6 +3,6 @@
 - [Resume](https://abolfazlrzii.github.io/resume/) 
 - [SOP](https://abolfazlrzii.github.io/SOP/)
 - [GitHub](https://github.com/fatememosaee)
-- [js]( )
-- [patchwork]( )
+- [js](https://github.com/abolfazlrzii/PNU-3991-AR/blob/main/soloLearn.jpg)
+- [patchwork](https://github.com/abolfazlrzii/PNU-3991-AR/blob/main/patchwork.jpg)
 -----------------
